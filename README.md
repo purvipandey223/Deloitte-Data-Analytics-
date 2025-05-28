@@ -39,6 +39,8 @@ This simulation provided hands-on experience in a consulting-style data analytic
 - Deriving data-driven insights
 - Communicating findings effectively to stakeholders
 
+![DashBoard](DashBoard.png)
+
 ## Author
 
 **Purvi Pandey**  
